@@ -2,6 +2,7 @@
   "name": "Slomux",
   "private": true,
   "version": "1.0.0",
+  "description": "Тестовое задание CSSSR для middle фронтенд-разработчика",
   "type": "module",
   "scripts": {
     "dev": "vite",
